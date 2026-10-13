@@ -87,6 +87,7 @@ class Meeting(TimestampMixin, Base):
     external_id: Mapped[str] = mapped_column(String(200))
     title: Mapped[str] = mapped_column(String(500))
     meeting_date: Mapped[date] = mapped_column(Date, index=True)
+    starts_at: Mapped[datetime | None] = mapped_column(DateTime(timezone=True))
     status: Mapped[MeetingStatus] = mapped_column(
         _str_enum(MeetingStatus), default=MeetingStatus.SCHEDULED
     )

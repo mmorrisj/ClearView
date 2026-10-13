@@ -93,3 +93,28 @@ def test_upsert_never_deletes_documents_missing_from_a_later_scrape(session: Ses
 
     assert _count(session, Document) == 2
     assert _count(session, MediaAsset) == 1
+
+
+def test_upsert_stores_start_time_and_updates_media_duration(session: Session) -> None:
+    from datetime import UTC, datetime
+
+    body = _body(session)
+    starts = datetime(2026, 9, 15, 23, 1, 55, tzinfo=UTC)
+    upsert_meeting(
+        session,
+        body=body,
+        discovered=_meeting(starts_at=starts, media=[DiscoveredMedia("https://example.test/v")]),
+    )
+
+    meeting = upsert_meeting(
+        session,
+        body=body,
+        discovered=_meeting(
+            starts_at=starts, media=[DiscoveredMedia("https://example.test/v", duration_s=3776.0)]
+        ),
+    )
+
+    assert meeting.starts_at == starts
+    assert [(m.url, m.duration_s) for m in meeting.media_assets] == [
+        ("https://example.test/v", 3776.0)
+    ]

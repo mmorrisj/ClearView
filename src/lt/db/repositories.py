@@ -43,6 +43,7 @@ def upsert_meeting(session: Session, *, body: Body, discovered: DiscoveredMeetin
     values = {
         "title": discovered.title,
         "meeting_date": discovered.meeting_date,
+        "starts_at": discovered.starts_at,
         "status": discovered.status,
         "source_url": discovered.source_url,
     }
@@ -71,10 +72,22 @@ def upsert_meeting(session: Session, *, body: Body, discovered: DiscoveredMeetin
             .on_conflict_do_nothing(index_elements=["meeting_id", "url"])
         )
     if discovered.media:
+        media_stmt = insert(MediaAsset).values(
+            [
+                {"meeting_id": meeting_id, "url": m.url, "duration_s": m.duration_s}
+                for m in discovered.media
+            ]
+        )
         session.execute(
-            insert(MediaAsset)
-            .values([{"meeting_id": meeting_id, "url": m.url} for m in discovered.media])
-            .on_conflict_do_nothing(index_elements=["meeting_id", "url"])
+            media_stmt.on_conflict_do_update(
+                index_elements=["meeting_id", "url"],
+                # Never overwrite a known duration with an unknown one.
+                set_={
+                    "duration_s": func.coalesce(
+                        media_stmt.excluded.duration_s, MediaAsset.duration_s
+                    )
+                },
+            )
         )
 
     meeting = session.get_one(Meeting, meeting_id, populate_existing=True)
