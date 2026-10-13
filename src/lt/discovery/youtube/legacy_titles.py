@@ -1,4 +1,4 @@
-"""Parse Haymarket's YouTube recording titles into meetings.
+"""Parse Haymarket's 2021-2024 YouTube upload titles (pre-livestream era).
 
 Titles follow the town's recording-system template, e.g.::
 
@@ -6,15 +6,13 @@ Titles follow the town's recording-system template, e.g.::
 
 The trailing ``SD 480`` is the video resolution. Titles that don't match (e.g. a manual
 upload named "Copy of Town Council regular meeting continued") return ``None`` so they
-can be triaged by a person instead of guessed at.
+can be triaged by a person instead of guessed at. Livestreams (2024+) use free-form
+titles; for those, the date comes from the stream's start time instead.
 """
 
 import re
 from dataclasses import dataclass
 from datetime import date, datetime, time
-
-from lt.db.models import MeetingStatus
-from lt.discovery.types import DiscoveredMedia, DiscoveredMeeting
 
 # Title prefix -> canonical Body.name. Longest prefixes first so matching is unambiguous.
 BODY_ALIASES: dict[str, str] = {
@@ -60,31 +58,3 @@ def parse_title(title: str) -> ParsedTitle | None:
                 start_time=when.time(),
             )
     return None
-
-
-def _slug(text: str) -> str:
-    return re.sub(r"[^a-z0-9]+", "-", text.lower()).strip("-")
-
-
-def meeting_from_video(video_id: str, title: str) -> tuple[str, DiscoveredMeeting] | None:
-    """Return ``(body_name, meeting)`` for a recording, or ``None`` if the title is unparseable.
-
-    The external id is derived from the meeting (date, start time, type), not the video, so a
-    re-upload or a second part of the same meeting maps to the same row.
-    """
-    parsed = parse_title(title)
-    if parsed is None:
-        return None
-    url = f"https://www.youtube.com/watch?v={video_id}"
-    external_id = (
-        f"{parsed.meeting_date.isoformat()}T{parsed.start_time:%H%M}-{_slug(parsed.meeting_type)}"
-    )
-    meeting = DiscoveredMeeting(
-        external_id=external_id,
-        title=f"{parsed.body_name} {parsed.meeting_type}",
-        meeting_date=parsed.meeting_date,
-        source_url=url,
-        status=MeetingStatus.HELD,
-        media=[DiscoveredMedia(url)],
-    )
-    return parsed.body_name, meeting

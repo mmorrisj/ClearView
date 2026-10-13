@@ -5,7 +5,7 @@ scrapers testable against saved HTML fixtures with no database.
 """
 
 from dataclasses import dataclass, field
-from datetime import date
+from datetime import date, datetime
 from typing import Protocol
 
 from lt.db.models import DocumentType, MeetingStatus
@@ -21,6 +21,7 @@ class DiscoveredDocument:
 @dataclass(frozen=True, slots=True)
 class DiscoveredMedia:
     url: str
+    duration_s: float | None = None
 
 
 @dataclass(frozen=True, slots=True)
@@ -29,6 +30,7 @@ class DiscoveredMeeting:
     title: str
     meeting_date: date
     source_url: str
+    starts_at: datetime | None = None
     status: MeetingStatus = MeetingStatus.SCHEDULED
     documents: list[DiscoveredDocument] = field(default_factory=list)
     media: list[DiscoveredMedia] = field(default_factory=list)

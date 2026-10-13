@@ -4,10 +4,9 @@ from pathlib import Path
 
 import pytest
 
-from lt.db.models import MeetingStatus
-from lt.discovery.youtube_titles import meeting_from_video, parse_title
+from lt.discovery.youtube.legacy_titles import parse_title
 
-FIXTURES = Path(__file__).parent / "fixtures" / "youtube" / "haymarket_titles.json"
+FIXTURES = Path(__file__).parent / "fixtures" / "youtube" / "legacy_titles.json"
 
 
 def _videos() -> list[dict[str, str]]:
@@ -82,30 +81,3 @@ def test_every_real_title_but_the_untitled_copy_parses() -> None:
     unparsed = [v["title"] for v in _videos() if parse_title(v["title"]) is None]
 
     assert unparsed == ["Copy of Town Council regular meeting continued"]
-
-
-def test_same_day_meetings_get_distinct_external_ids() -> None:
-    a = meeting_from_video(
-        "cQ9CjwojLcg", "May 6 2024 0600 PM Mayor and Council Budget Work Session SD 480"
-    )
-    b = meeting_from_video(
-        "eqn5XCN5SIE", "May 6 2024 0700 PM Mayor and Council Public Hearing Regular Meeting SD 480"
-    )
-
-    assert a is not None and b is not None
-    assert a[1].external_id != b[1].external_id
-
-
-def test_meeting_from_video_builds_held_meeting_with_media_link() -> None:
-    result = meeting_from_video(
-        "2N0VvoJX9X0", "Jun 17 2024 0700 PM Planning Commission Regular Meeting SD 480"
-    )
-
-    assert result is not None
-    body_name, meeting = result
-    assert body_name == "Planning Commission"
-    assert meeting.external_id == "2024-06-17T1900-regular-meeting"
-    assert meeting.title == "Planning Commission Regular Meeting"
-    assert meeting.status is MeetingStatus.HELD
-    assert meeting.source_url == "https://www.youtube.com/watch?v=2N0VvoJX9X0"
-    assert [m.url for m in meeting.media] == ["https://www.youtube.com/watch?v=2N0VvoJX9X0"]
