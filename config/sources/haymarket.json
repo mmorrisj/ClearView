@@ -9,6 +9,11 @@
     "Architectural Review Board",
     "Board of Zoning Appeals"
   ],
-  "body_overrides": {},
+  "body_overrides": {
+    "ha3Yl263mZA": {
+      "body": "Town Council",
+      "note": "'Regular Meeting/Closed Session 091626' (2026-09-16): confirmed Town Council by mmorrisj, 2026-10-13"
+    }
+  },
   "skip": {}
 }

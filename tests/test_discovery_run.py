@@ -13,7 +13,10 @@ from tests.youtube_fakes import fake_youtube_transport
 
 pytestmark = pytest.mark.db
 
-CONFIG = SourceConfig.load(Path("config/sources/haymarket.json"))
+CHECKED_IN = SourceConfig.load(Path("config/sources/haymarket.json"))
+# The source definition without any human review decisions, so these tests don't change
+# every time a reviewer resolves an item.
+CONFIG = SourceConfig.model_validate({**CHECKED_IN.model_dump(), "body_overrides": {}, "skip": {}})
 SEPTEMBER = (date(2026, 9, 1), date(2026, 9, 30))
 
 
@@ -70,3 +73,10 @@ def test_review_override_brings_queued_meeting_in(session: Session) -> None:
     assert ("Town Council", date(2026, 9, 16), "Regular Meeting/Closed Session 091626") in (
         _meetings(session)
     )
+
+
+def test_checked_in_review_decisions_resolve_the_pilot_month(session: Session) -> None:
+    report = _run(session, CHECKED_IN)
+
+    assert report.needs_review == []
+    assert report.accepted == 4
