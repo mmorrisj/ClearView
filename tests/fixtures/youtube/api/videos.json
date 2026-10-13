@@ -1,0 +1,3007 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "zx8XoVZz57lFztADfPBu9itpjNM",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "t262PITrbbU2GlfogOr7R8KR6GQ",
+      "id": "M3rBK26yn0M",
+      "snippet": {
+        "publishedAt": "2026-10-06T12:09:57Z",
+        "channelId": "UCtqtz4Sjo9chgA38RttUbdw",
+        "title": "Public Hearing/Regular Monthly Meeting",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/M3rBK26yn0M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/M3rBK26yn0M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/M3rBK26yn0M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/M3rBK26yn0M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/M3rBK26yn0M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Town of Haymarket",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Public Hearing/Regular Monthly Meeting",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT53M40S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-10-05T22:59:56Z",
+        "actualEndTime": "2026-10-05T23:53:32Z",
+        "scheduledStartTime": "2026-10-05T23:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "su7fEjnToRK8anCO-4IdqOzaaqE",
+      "id": "AymYALlOde8",
+      "snippet": {
+        "publishedAt": "2026-10-05T22:28:42Z",
+        "channelId": "UCtqtz4Sjo9chgA38RttUbdw",
+        "title": "Public Hearing/Regular Monthly Meeting 100526",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AymYALlOde8/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AymYALlOde8/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AymYALlOde8/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AymYALlOde8/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AymYALlOde8/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Town of Haymarket",
+        "categoryId": "22",
+        "liveBroadcastContent": "upcoming",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Public Hearing/Regular Monthly Meeting 100526",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "P0D",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "liveStreamingDetails": {
+        "scheduledStartTime": "2026-10-05T23:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "6nA291PmrqLxtGtLSnAL8ELOskQ",
+      "id": "zB4PUJTDPbc",
+      "snippet": {
+        "publishedAt": "2026-10-01T12:07:19Z",
+        "channelId": "UCtqtz4Sjo9chgA38RttUbdw",
+        "title": "Architectural Review Board Meeting 9.30.2026",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zB4PUJTDPbc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zB4PUJTDPbc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zB4PUJTDPbc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zB4PUJTDPbc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zB4PUJTDPbc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Town of Haymarket",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Architectural Review Board Meeting 9.30.2026",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT53M35S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-09-30T22:59:43Z",
+        "actualEndTime": "2026-09-30T23:53:13Z",
+        "scheduledStartTime": "2026-09-30T23:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "XAa1C2kEhH4JZtjBGa_FTl6kFiY",
+      "id": "C4LHS4hEF-w",
+      "snippet": {
+        "publishedAt": "2026-09-29T13:47:04Z",
+        "channelId": "UCtqtz4Sjo9chgA38RttUbdw",
+        "title": "Town Council Work Session 092826",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C4LHS4hEF-w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C4LHS4hEF-w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C4LHS4hEF-w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/C4LHS4hEF-w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/C4LHS4hEF-w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Town of Haymarket",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Town Council Work Session 092826",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT1H37M49S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-09-28T23:00:03Z",
+        "actualEndTime": "2026-09-29T00:37:48Z",
+        "scheduledStartTime": "2026-09-28T23:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "dyopRLLELmD5r56wUHZTusI60yI",
+      "id": "ha3Yl263mZA",
+      "snippet": {
+        "publishedAt": "2026-09-16T23:26:24Z",
+        "channelId": "UCtqtz4Sjo9chgA38RttUbdw",
+        "title": "Regular Meeting/Closed Session 091626",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ha3Yl263mZA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ha3Yl263mZA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ha3Yl263mZA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ha3Yl263mZA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ha3Yl263mZA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Town of Haymarket",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Regular Meeting/Closed Session 091626",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT17M48S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-09-16T21:04:23Z",
+        "actualEndTime": "2026-09-16T23:11:12Z",
+        "scheduledStartTime": "2026-09-16T21:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "zjTtzoeEVtSxrJAGjmogSu5CkgQ",
+      "id": "uZQsbeFF6xU",
+      "snippet": {
+        "publishedAt": "2026-09-16T12:22:06Z",
+        "channelId": "UCtqtz4Sjo9chgA38RttUbdw",
+        "title": "Planning Commission Meeting 091526",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uZQsbeFF6xU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uZQsbeFF6xU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uZQsbeFF6xU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uZQsbeFF6xU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uZQsbeFF6xU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Town of Haymarket",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Planning Commission Meeting 091526",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT1H2M56S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-09-15T23:01:55Z",
+        "actualEndTime": "2026-09-16T00:04:47Z",
+        "scheduledStartTime": "2026-09-15T23:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "e9AcObJgk7fWa2BHYUNcwAQqRYE",
+      "id": "wSHInwC1SMk",
+      "snippet": {
+        "publishedAt": "2026-09-01T02:57:12Z",
+        "channelId": "UCtqtz4Sjo9chgA38RttUbdw",
+        "title": "Town Council Work Session 083126",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wSHInwC1SMk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wSHInwC1SMk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wSHInwC1SMk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wSHInwC1SMk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wSHInwC1SMk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Town of Haymarket",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Town Council Work Session 083126",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT3H22M7S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-08-31T23:03:56Z",
+        "actualEndTime": "2026-09-01T02:50:02Z",
+        "scheduledStartTime": "2026-08-31T23:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "6fy7teGpB9f-7tf7yr-Jxb_P2K8",
+      "id": "K-xFaJozXzQ",
+      "snippet": {
+        "publishedAt": "2026-08-26T23:16:39Z",
+        "channelId": "UCtqtz4Sjo9chgA38RttUbdw",
+        "title": "Closed Session 082626",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/K-xFaJozXzQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/K-xFaJozXzQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/K-xFaJozXzQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/K-xFaJozXzQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/K-xFaJozXzQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Town of Haymarket",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Closed Session 082626",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT2M44S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-08-26T21:05:10Z",
+        "actualEndTime": "2026-08-26T23:06:42Z",
+        "scheduledStartTime": "2026-08-26T21:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "0Aa59-8dzxIjK7_nFYrupJWK9Cc",
+      "id": "jPO8bJygKzA",
+      "snippet": {
+        "publishedAt": "2026-08-05T23:20:07Z",
+        "channelId": "UCtqtz4Sjo9chgA38RttUbdw",
+        "title": "Town Council Closed Session 080526",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jPO8bJygKzA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jPO8bJygKzA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jPO8bJygKzA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jPO8bJygKzA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jPO8bJygKzA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Town of Haymarket",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Town Council Closed Session 080526",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT2M38S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-08-05T20:59:40Z",
+        "actualEndTime": "2026-08-05T23:14:43Z",
+        "scheduledStartTime": "2026-08-05T21:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "AXvxrDFFcn1YwUJQW7XZXwOnGrI",
+      "id": "3Z4jdgUsl2I",
+      "snippet": {
+        "publishedAt": "2026-08-04T11:04:36Z",
+        "channelId": "UCtqtz4Sjo9chgA38RttUbdw",
+        "title": "Town Council Closed Session",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3Z4jdgUsl2I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3Z4jdgUsl2I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3Z4jdgUsl2I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3Z4jdgUsl2I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3Z4jdgUsl2I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Town of Haymarket",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Town Council Closed Session",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT2M6S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-08-03T22:02:30Z",
+        "actualEndTime": "2026-08-03T22:54:24Z",
+        "scheduledStartTime": "2026-08-03T22:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "5l5S9oF5vC4ftgPfw5HNrQMi9mc",
+      "id": "ZS3nzOMmPQE",
+      "snippet": {
+        "publishedAt": "2026-08-04T03:35:08Z",
+        "channelId": "UCtqtz4Sjo9chgA38RttUbdw",
+        "title": "Town Council Meeting -8/3/2026",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZS3nzOMmPQE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZS3nzOMmPQE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZS3nzOMmPQE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZS3nzOMmPQE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZS3nzOMmPQE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Town of Haymarket",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Town Council Meeting -8/3/2026",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT3H43M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-08-03T23:01:24Z",
+        "actualEndTime": "2026-08-04T03:27:53Z",
+        "scheduledStartTime": "2026-08-03T23:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "e3mr3BZ6gxxwUYa0uuUxHilx-Wc",
+      "id": "75CD0toSAeo",
+      "snippet": {
+        "publishedAt": "2026-07-21T12:07:26Z",
+        "channelId": "UCtqtz4Sjo9chgA38RttUbdw",
+        "title": "Regular Monthly Meeting",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/75CD0toSAeo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/75CD0toSAeo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/75CD0toSAeo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/75CD0toSAeo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/75CD0toSAeo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Town of Haymarket",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Regular Monthly Meeting",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT44M21S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-07-20T23:03:19Z",
+        "actualEndTime": "2026-07-20T23:48:00Z",
+        "scheduledStartTime": "2026-07-20T23:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "JQ5pMObF0NkKHEZ4CQrEV-lc8J4",
+      "id": "CvTA4KmASmE",
+      "snippet": {
+        "publishedAt": "2026-07-21T10:58:07Z",
+        "channelId": "UCtqtz4Sjo9chgA38RttUbdw",
+        "title": "Monthly Work Session",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CvTA4KmASmE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CvTA4KmASmE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CvTA4KmASmE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CvTA4KmASmE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CvTA4KmASmE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Town of Haymarket",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Monthly Work Session",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT31M7S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-07-20T22:03:23Z",
+        "actualEndTime": "2026-07-20T22:53:13Z",
+        "scheduledStartTime": "2026-07-20T22:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "LrBskqlH2ILCoH7fpYcwX0ml5zQ",
+      "id": "qcDAYqEQmnc",
+      "snippet": {
+        "publishedAt": "2026-06-30T03:48:40Z",
+        "channelId": "UCtqtz4Sjo9chgA38RttUbdw",
+        "title": "Town Council Work Session 062926",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qcDAYqEQmnc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qcDAYqEQmnc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qcDAYqEQmnc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qcDAYqEQmnc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qcDAYqEQmnc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Town of Haymarket",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Town Council Work Session 062926",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT3H19M35S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-06-29T23:01:40Z",
+        "actualEndTime": "2026-06-30T03:37:43Z",
+        "scheduledStartTime": "2026-06-29T23:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "mZh5Acal-fhypsA_hbR3n_m9eD8",
+      "id": "GFrn-zESmdE",
+      "snippet": {
+        "publishedAt": "2026-06-24T12:58:37Z",
+        "channelId": "UCtqtz4Sjo9chgA38RttUbdw",
+        "title": "Public Hearing Special meeting",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GFrn-zESmdE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GFrn-zESmdE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GFrn-zESmdE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GFrn-zESmdE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GFrn-zESmdE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Town of Haymarket",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Public Hearing Special meeting",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT38M42S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-06-23T23:13:02Z",
+        "actualEndTime": "2026-06-24T00:33:24Z",
+        "scheduledStartTime": "2026-06-23T23:11:19Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "1rp014Yv1wDeHgqxYaP3umCyqWw",
+      "id": "6xRXNCuBAX0",
+      "snippet": {
+        "publishedAt": "2026-06-24T11:17:25Z",
+        "channelId": "UCtqtz4Sjo9chgA38RttUbdw",
+        "title": "Public Hearing/Special Meeting",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6xRXNCuBAX0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6xRXNCuBAX0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6xRXNCuBAX0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6xRXNCuBAX0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6xRXNCuBAX0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Town of Haymarket",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Public Hearing/Special Meeting",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT2M36S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-06-23T22:00:58Z",
+        "actualEndTime": "2026-06-23T23:10:14Z",
+        "scheduledStartTime": "2026-06-23T22:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ByP_W7vvSEdLd4pJ3bLKMzLkfkc",
+      "id": "h6zMVsY6bOM",
+      "snippet": {
+        "publishedAt": "2026-06-18T01:16:35Z",
+        "channelId": "UCtqtz4Sjo9chgA38RttUbdw",
+        "title": "ARB Meeting 061726",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/h6zMVsY6bOM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/h6zMVsY6bOM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/h6zMVsY6bOM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/h6zMVsY6bOM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/h6zMVsY6bOM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Town of Haymarket",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "ARB Meeting 061726",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT2H10M3S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-06-17T23:00:33Z",
+        "actualEndTime": "2026-06-18T01:10:32Z",
+        "scheduledStartTime": "2026-06-17T23:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "3GZSOKhS0Sv5xnACe3_aTQZxjMg",
+      "id": "kOYsdM2vNPc",
+      "snippet": {
+        "publishedAt": "2026-06-10T12:33:44Z",
+        "channelId": "UCtqtz4Sjo9chgA38RttUbdw",
+        "title": "Planning Commission  Meeting 060926",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kOYsdM2vNPc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kOYsdM2vNPc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kOYsdM2vNPc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kOYsdM2vNPc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kOYsdM2vNPc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Town of Haymarket",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Planning Commission  Meeting 060926",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT1H5M24S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-06-09T23:01:28Z",
+        "actualEndTime": "2026-06-10T00:06:48Z",
+        "scheduledStartTime": "2026-06-09T23:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "8Zi2JWSbq_F955F2Ew5N8JGljCw",
+      "id": "QKDGCd6TzIA",
+      "snippet": {
+        "publishedAt": "2026-06-03T12:32:30Z",
+        "channelId": "UCtqtz4Sjo9chgA38RttUbdw",
+        "title": "Continuation Meeting 060226",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QKDGCd6TzIA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QKDGCd6TzIA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QKDGCd6TzIA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QKDGCd6TzIA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QKDGCd6TzIA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Town of Haymarket",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Continuation Meeting 060226",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT30M45S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-06-02T23:02:32Z",
+        "actualEndTime": "2026-06-03T00:13:58Z",
+        "scheduledStartTime": "2026-06-02T23:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "BSKi-pHgUSGFU6KHpBsCR84BO8g",
+      "id": "hEG_o2QBhMQ",
+      "snippet": {
+        "publishedAt": "2026-06-02T05:01:54Z",
+        "channelId": "UCtqtz4Sjo9chgA38RttUbdw",
+        "title": "Public Hearing/Regular Monthly Meeting",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hEG_o2QBhMQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hEG_o2QBhMQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hEG_o2QBhMQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hEG_o2QBhMQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hEG_o2QBhMQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Town of Haymarket",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Public Hearing/Regular Monthly Meeting",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT4H53M24S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-06-01T23:02:32Z",
+        "actualEndTime": "2026-06-02T04:10:23Z",
+        "scheduledStartTime": "2026-06-01T23:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "QVxDH35UxtgvA2aHUnEiGTPpkfE",
+      "id": "a-A0s8zAoac",
+      "snippet": {
+        "publishedAt": "2026-05-27T01:34:06Z",
+        "channelId": "UCtqtz4Sjo9chgA38RttUbdw",
+        "title": "Town Council Work Session 052626",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/a-A0s8zAoac/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/a-A0s8zAoac/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/a-A0s8zAoac/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/a-A0s8zAoac/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/a-A0s8zAoac/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Town of Haymarket",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Town Council Work Session 052626",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT2H26M25S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-05-26T23:00:21Z",
+        "actualEndTime": "2026-05-27T01:26:41Z",
+        "scheduledStartTime": "2026-05-26T23:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "wccI4Sdxjqx9J30LRd5v8EkGPEQ",
+      "id": "OROpFooC_TA",
+      "snippet": {
+        "publishedAt": "2026-05-13T12:24:36Z",
+        "channelId": "UCtqtz4Sjo9chgA38RttUbdw",
+        "title": "Planning Commission Regular Monthly Meeting 51226",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OROpFooC_TA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OROpFooC_TA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OROpFooC_TA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OROpFooC_TA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OROpFooC_TA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Town of Haymarket",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Planning Commission Regular Monthly Meeting 51226",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT58M6S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-05-12T23:00:39Z",
+        "actualEndTime": "2026-05-12T23:58:41Z",
+        "scheduledStartTime": "2026-05-12T23:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ZtJCV8h0sKJJGVBa96Mklw3D-2Q",
+      "id": "J0PvDcAnNTU",
+      "snippet": {
+        "publishedAt": "2026-05-05T12:15:58Z",
+        "channelId": "UCtqtz4Sjo9chgA38RttUbdw",
+        "title": "Town Council Public Hearing/Regular Meeting 050426",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/J0PvDcAnNTU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/J0PvDcAnNTU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/J0PvDcAnNTU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/J0PvDcAnNTU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/J0PvDcAnNTU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Town of Haymarket",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Town Council Public Hearing/Regular Meeting 050426",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT1H45S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-05-04T23:03:10Z",
+        "actualEndTime": "2026-05-05T00:03:52Z",
+        "scheduledStartTime": "2026-05-04T23:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ZppD9KrsDD8fyE6HFTb13cBHgXA",
+      "id": "i-GgF1-G2LI",
+      "snippet": {
+        "publishedAt": "2026-04-28T11:39:27Z",
+        "channelId": "UCtqtz4Sjo9chgA38RttUbdw",
+        "title": "closed session 042726",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i-GgF1-G2LI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i-GgF1-G2LI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i-GgF1-G2LI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/i-GgF1-G2LI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/i-GgF1-G2LI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Town of Haymarket",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "closed session 042726",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT3M11S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-04-27T21:33:07Z",
+        "actualEndTime": "2026-04-27T22:56:49Z",
+        "scheduledStartTime": "2026-04-27T21:32:25Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "IEXVA91AfHglqc0NDB5NJdDthtE",
+      "id": "ziFOpjVr0ZU",
+      "snippet": {
+        "publishedAt": "2026-04-28T01:24:50Z",
+        "channelId": "UCtqtz4Sjo9chgA38RttUbdw",
+        "title": "Work Session 042726",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ziFOpjVr0ZU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ziFOpjVr0ZU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ziFOpjVr0ZU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ziFOpjVr0ZU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ziFOpjVr0ZU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Town of Haymarket",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Work Session 042726",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT2H11M40S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-04-27T23:05:27Z",
+        "actualEndTime": "2026-04-28T01:17:02Z",
+        "scheduledStartTime": "2026-04-27T23:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "9MxLO2ELqHc6kRi--cWUk1J3Ag4",
+      "id": "LjX7hEs0rIw",
+      "snippet": {
+        "publishedAt": "2026-04-27T21:19:48Z",
+        "channelId": "UCtqtz4Sjo9chgA38RttUbdw",
+        "title": "Closed Session 042726",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LjX7hEs0rIw/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LjX7hEs0rIw/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LjX7hEs0rIw/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LjX7hEs0rIw/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LjX7hEs0rIw/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Town of Haymarket",
+        "categoryId": "22",
+        "liveBroadcastContent": "upcoming",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Closed Session 042726",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "P0D",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "liveStreamingDetails": {
+        "scheduledStartTime": "2026-04-27T21:30:00Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Q-6gtfusuH0f1xIwhJ8DziEQELE",
+      "id": "QcnVRuD5j24",
+      "snippet": {
+        "publishedAt": "2026-04-23T11:33:10Z",
+        "channelId": "UCtqtz4Sjo9chgA38RttUbdw",
+        "title": "Architectural Review Board Meeting 4.22.2026",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QcnVRuD5j24/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QcnVRuD5j24/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QcnVRuD5j24/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QcnVRuD5j24/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QcnVRuD5j24/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Town of Haymarket",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Architectural Review Board Meeting 4.22.2026",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT27M6S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-04-22T23:00:51Z",
+        "actualEndTime": "2026-04-22T23:27:53Z",
+        "scheduledStartTime": "2026-04-22T23:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "-qAUgHam86WgaXFw-IN3MRK-CdI",
+      "id": "B4mCSn8JKZM",
+      "snippet": {
+        "publishedAt": "2026-04-15T13:04:27Z",
+        "channelId": "UCtqtz4Sjo9chgA38RttUbdw",
+        "title": "Planning Commission Meeting 041426",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/B4mCSn8JKZM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/B4mCSn8JKZM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/B4mCSn8JKZM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/B4mCSn8JKZM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/B4mCSn8JKZM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Town of Haymarket",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Planning Commission Meeting 041426",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT1H37M11S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-04-14T23:03:44Z",
+        "actualEndTime": "2026-04-15T00:47:27Z",
+        "scheduledStartTime": "2026-04-14T23:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "n6KCuH9FDtUQF6ocU3E9XpnYmBk",
+      "id": "Qxb-Fd-sl9c",
+      "snippet": {
+        "publishedAt": "2026-04-07T12:47:21Z",
+        "channelId": "UCtqtz4Sjo9chgA38RttUbdw",
+        "title": "Public Hearing Regular Meeting",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Qxb-Fd-sl9c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Qxb-Fd-sl9c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Qxb-Fd-sl9c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Qxb-Fd-sl9c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Qxb-Fd-sl9c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Town of Haymarket",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Public Hearing Regular Meeting",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT1H40S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-04-06T23:03:21Z",
+        "actualEndTime": "2026-04-07T00:03:57Z",
+        "scheduledStartTime": "2026-04-06T23:01:16Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "zJtSfITtG3QFOpMFFuX3SgVnVHY",
+      "id": "0o2FjiNJTa0",
+      "snippet": {
+        "publishedAt": "2026-04-07T11:04:21Z",
+        "channelId": "UCtqtz4Sjo9chgA38RttUbdw",
+        "title": "Closed Session 040626",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0o2FjiNJTa0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0o2FjiNJTa0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0o2FjiNJTa0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0o2FjiNJTa0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0o2FjiNJTa0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Town of Haymarket",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Closed Session 040626",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT4M11S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-04-06T22:02:51Z",
+        "actualEndTime": "2026-04-06T22:59:46Z",
+        "scheduledStartTime": "2026-04-06T22:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "V64RNhKKxK7QVAdmnnSMkbRqe-Y",
+      "id": "HoXVJAcaT88",
+      "snippet": {
+        "publishedAt": "2026-03-31T01:12:49Z",
+        "channelId": "UCtqtz4Sjo9chgA38RttUbdw",
+        "title": "Town Council Work Session 033026",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HoXVJAcaT88/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HoXVJAcaT88/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HoXVJAcaT88/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HoXVJAcaT88/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HoXVJAcaT88/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Town of Haymarket",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Town Council Work Session 033026",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT2H34M2S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-03-30T22:24:52Z",
+        "actualEndTime": "2026-03-31T01:05:40Z",
+        "scheduledStartTime": "2026-03-30T22:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Hb7_ckcclKfnfS_VDM7GB4yJ2aw",
+      "id": "iqSE1Afelz4",
+      "snippet": {
+        "publishedAt": "2026-03-19T12:37:03Z",
+        "channelId": "UCtqtz4Sjo9chgA38RttUbdw",
+        "title": "Architectural Review Board 3.18.2026",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iqSE1Afelz4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iqSE1Afelz4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iqSE1Afelz4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/iqSE1Afelz4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/iqSE1Afelz4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Town of Haymarket",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Architectural Review Board 3.18.2026",
+          "description": ""
+        },
+        "defaultAudioLanguage": "zxx"
+      },
+      "contentDetails": {
+        "duration": "PT1H15M34S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-03-18T23:01:50Z",
+        "actualEndTime": "2026-03-19T00:17:16Z",
+        "scheduledStartTime": "2026-03-18T23:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "RGM_bhZwMoR1ZpfIMmig0R66DSA",
+      "id": "8XWbKRfk6Rc",
+      "snippet": {
+        "publishedAt": "2026-03-11T01:12:52Z",
+        "channelId": "UCtqtz4Sjo9chgA38RttUbdw",
+        "title": "Planning Commission Regular Meeting 031026",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8XWbKRfk6Rc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8XWbKRfk6Rc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8XWbKRfk6Rc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8XWbKRfk6Rc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8XWbKRfk6Rc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Town of Haymarket",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Planning Commission Regular Meeting 031026",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT1H57M37S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-03-10T22:59:25Z",
+        "actualEndTime": "2026-03-11T01:03:20Z",
+        "scheduledStartTime": "2026-03-10T23:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "VrcVetwkvmN9zwdo0I2VEuozVn0",
+      "id": "3qfXtFvrf2w",
+      "snippet": {
+        "publishedAt": "2026-03-03T14:18:41Z",
+        "channelId": "UCtqtz4Sjo9chgA38RttUbdw",
+        "title": "Town Council Regular Monthly Meeting 030226",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3qfXtFvrf2w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3qfXtFvrf2w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3qfXtFvrf2w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3qfXtFvrf2w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3qfXtFvrf2w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Town of Haymarket",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Town Council Regular Monthly Meeting 030226",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT1H52M27S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-03-03T00:01:45Z",
+        "actualEndTime": "2026-03-03T01:54:15Z",
+        "scheduledStartTime": "2026-03-03T00:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "xktIQrbFAKr3lVfIX8xY6Rkp8q4",
+      "id": "vA7gmRdkFog",
+      "snippet": {
+        "publishedAt": "2026-02-24T04:05:51Z",
+        "channelId": "UCtqtz4Sjo9chgA38RttUbdw",
+        "title": "Town Council Work Session 022326",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vA7gmRdkFog/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vA7gmRdkFog/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vA7gmRdkFog/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vA7gmRdkFog/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vA7gmRdkFog/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Town of Haymarket",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Town Council Work Session 022326",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT2H52M44S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-02-24T00:02:15Z",
+        "actualEndTime": "2026-02-24T03:57:10Z",
+        "scheduledStartTime": "2026-02-24T00:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "_tT7u1unU_r7FrU8prgObGKwF8U",
+      "id": "Kb5Y1d40x4w",
+      "snippet": {
+        "publishedAt": "2026-02-03T13:07:13Z",
+        "channelId": "UCtqtz4Sjo9chgA38RttUbdw",
+        "title": "Town Council Regular Meeting",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Kb5Y1d40x4w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Kb5Y1d40x4w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Kb5Y1d40x4w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Kb5Y1d40x4w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Kb5Y1d40x4w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Town of Haymarket",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Town Council Regular Meeting",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT8S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-02-03T00:09:19Z",
+        "actualEndTime": "2026-02-03T00:57:55Z",
+        "scheduledStartTime": "2026-02-03T00:03:12Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "d4xEkJ-_PRcmi3dwH5H3E8aDMq0",
+      "id": "jAKzVFP2V4Q",
+      "snippet": {
+        "publishedAt": "2026-02-03T12:09:42Z",
+        "channelId": "UCtqtz4Sjo9chgA38RttUbdw",
+        "title": "Town Council Work Session",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jAKzVFP2V4Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jAKzVFP2V4Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jAKzVFP2V4Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jAKzVFP2V4Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jAKzVFP2V4Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Town of Haymarket",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Town Council Work Session",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT57M37S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-02-02T23:02:53Z",
+        "actualEndTime": "2026-02-03T00:00:25Z",
+        "scheduledStartTime": "2026-02-02T23:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "sC7pWBM8yjt5vR5hGIm44rHvRxg",
+      "id": "JkNhT_lnZjw",
+      "snippet": {
+        "publishedAt": "2026-01-21T03:02:42Z",
+        "channelId": "UCtqtz4Sjo9chgA38RttUbdw",
+        "title": "Planning Commission Public Hearing/Regular Meeting 12026",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JkNhT_lnZjw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JkNhT_lnZjw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JkNhT_lnZjw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JkNhT_lnZjw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JkNhT_lnZjw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Town of Haymarket",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Planning Commission Public Hearing/Regular Meeting 12026",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT2H48M4S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-01-21T00:00:15Z",
+        "actualEndTime": "2026-01-21T02:55:56Z",
+        "scheduledStartTime": "2026-01-21T00:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "fBTgpmdSiRk_mnYdcq15xLen9wI",
+      "id": "wRodjOBYVWo",
+      "snippet": {
+        "publishedAt": "2026-01-06T02:47:18Z",
+        "channelId": "UCtqtz4Sjo9chgA38RttUbdw",
+        "title": "Town Council Regular Monthly Meeting 010526",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wRodjOBYVWo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wRodjOBYVWo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wRodjOBYVWo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wRodjOBYVWo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wRodjOBYVWo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Town of Haymarket",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Town Council Regular Monthly Meeting 010526",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT2H27M56S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2026-01-06T00:02:12Z",
+        "actualEndTime": "2026-01-06T02:40:21Z",
+        "scheduledStartTime": "2026-01-06T00:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "sqzrbzeSr4RXIRIarjTIrXzc1Nw",
+      "id": "Dvr3C4bd0z0",
+      "snippet": {
+        "publishedAt": "2025-12-19T04:15:37Z",
+        "channelId": "UCtqtz4Sjo9chgA38RttUbdw",
+        "title": "test",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Dvr3C4bd0z0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Dvr3C4bd0z0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Dvr3C4bd0z0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Dvr3C4bd0z0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Dvr3C4bd0z0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Town of Haymarket",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "test",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT6M9S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2025-12-18T16:07:46Z",
+        "actualEndTime": "2025-12-18T16:13:49Z",
+        "scheduledStartTime": "2025-12-18T16:15:00Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "QMuLi1seyPaW-o0pvRgeFIdHJ0E",
+      "id": "mLk4YDFSASo",
+      "snippet": {
+        "publishedAt": "2025-12-19T03:56:06Z",
+        "channelId": "UCtqtz4Sjo9chgA38RttUbdw",
+        "title": "Zoom Test",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mLk4YDFSASo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mLk4YDFSASo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mLk4YDFSASo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mLk4YDFSASo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mLk4YDFSASo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Town of Haymarket",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Zoom Test",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT14M14S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2025-12-18T15:40:12Z",
+        "actualEndTime": "2025-12-18T15:54:21Z",
+        "scheduledStartTime": "2025-12-18T15:45:00Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "3FLWvf9b5WsdX8F4jv3JqaVnTSg",
+      "id": "mqiEOFZme8w",
+      "snippet": {
+        "publishedAt": "2025-12-19T02:41:48Z",
+        "channelId": "UCtqtz4Sjo9chgA38RttUbdw",
+        "title": "Town Council Work Session 121825",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mqiEOFZme8w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mqiEOFZme8w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mqiEOFZme8w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mqiEOFZme8w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mqiEOFZme8w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Town of Haymarket",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Town Council Work Session 121825",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT2H29M3S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2025-12-19T00:03:59Z",
+        "actualEndTime": "2025-12-19T02:32:56Z",
+        "scheduledStartTime": "2025-12-19T00:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "HQ2I0FYda43d8BV4uqLa1J7A2K8",
+      "id": "jV5DSG_odkY",
+      "snippet": {
+        "publishedAt": "2025-12-18T15:57:15Z",
+        "channelId": "UCtqtz4Sjo9chgA38RttUbdw",
+        "title": "Test",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jV5DSG_odkY/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jV5DSG_odkY/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jV5DSG_odkY/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jV5DSG_odkY/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jV5DSG_odkY/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Town of Haymarket",
+        "categoryId": "22",
+        "liveBroadcastContent": "upcoming",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Test",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "P0D",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "liveStreamingDetails": {
+        "scheduledStartTime": "2025-12-18T15:57:14Z",
+        "activeLiveChatId": "Cg0KC2pWNURTR19vZGtZKicKGFVDdHF0ejRTam85Y2hnQTM4UnR0VWJkdxILalY1RFNHX29ka1k"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "HYpdkHoWyE_kOEWvU_fY7YunTzo",
+      "id": "MYh19rku_V4",
+      "snippet": {
+        "publishedAt": "2025-12-18T15:35:09Z",
+        "channelId": "UCtqtz4Sjo9chgA38RttUbdw",
+        "title": "Zoom Test Meeting",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MYh19rku_V4/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MYh19rku_V4/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MYh19rku_V4/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MYh19rku_V4/sddefault_live.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MYh19rku_V4/maxresdefault_live.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Town of Haymarket",
+        "categoryId": "22",
+        "liveBroadcastContent": "upcoming",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Zoom Test Meeting",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "P0D",
+        "dimension": "2d",
+        "definition": "sd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "liveStreamingDetails": {
+        "scheduledStartTime": "2025-12-18T15:35:09Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "spgp0zas08fHaLuSQL2QjgoO2y0",
+      "id": "sduhmUBiD_E",
+      "snippet": {
+        "publishedAt": "2025-12-18T12:54:26Z",
+        "channelId": "UCtqtz4Sjo9chgA38RttUbdw",
+        "title": "Architectural Review Board Meeting - 12/17/25",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sduhmUBiD_E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sduhmUBiD_E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sduhmUBiD_E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sduhmUBiD_E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sduhmUBiD_E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Town of Haymarket",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Architectural Review Board Meeting - 12/17/25",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT46M55S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2025-12-18T00:00:35Z",
+        "actualEndTime": "2025-12-18T00:47:26Z",
+        "scheduledStartTime": "2025-12-18T00:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "C5ArFODISz0BNfVx_GM5L3soI_4",
+      "id": "0RsvxQe8ODQ",
+      "snippet": {
+        "publishedAt": "2025-12-10T02:10:29Z",
+        "channelId": "UCtqtz4Sjo9chgA38RttUbdw",
+        "title": "Planning Commission 120925",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0RsvxQe8ODQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0RsvxQe8ODQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0RsvxQe8ODQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0RsvxQe8ODQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0RsvxQe8ODQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Town of Haymarket",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Planning Commission 120925",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT1H39M50S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2025-12-10T00:02:22Z",
+        "actualEndTime": "2025-12-10T02:05:05Z",
+        "scheduledStartTime": "2025-12-10T00:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "GVGSSZOwxQO69u5NtMixNVjVlxA",
+      "id": "5WSNBD77axk",
+      "snippet": {
+        "publishedAt": "2025-12-02T13:28:42Z",
+        "channelId": "UCtqtz4Sjo9chgA38RttUbdw",
+        "title": "Town Council Regular Meeting 120125",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5WSNBD77axk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5WSNBD77axk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5WSNBD77axk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5WSNBD77axk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5WSNBD77axk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Town of Haymarket",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Town Council Regular Meeting 120125",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT1H5M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2025-12-02T00:04:22Z",
+        "actualEndTime": "2025-12-02T01:09:19Z",
+        "scheduledStartTime": "2025-12-02T00:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "_J0qFNLTCET_l6kFdRCxepikYzw",
+      "id": "0ICiD9TUcxI",
+      "snippet": {
+        "publishedAt": "2025-11-25T03:35:41Z",
+        "channelId": "UCtqtz4Sjo9chgA38RttUbdw",
+        "title": "Town Council Work Session 112425",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0ICiD9TUcxI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0ICiD9TUcxI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0ICiD9TUcxI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0ICiD9TUcxI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0ICiD9TUcxI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Town of Haymarket",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Town Council Work Session 112425",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT2H14M45S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2025-11-25T00:01:29Z",
+        "actualEndTime": "2025-11-25T03:30:26Z",
+        "scheduledStartTime": "2025-11-25T00:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "PsOrvuIOVUS7TUGrI-ZuBLgBUDQ",
+      "id": "uP_NIcckQWM",
+      "snippet": {
+        "publishedAt": "2025-11-19T12:54:25Z",
+        "channelId": "UCtqtz4Sjo9chgA38RttUbdw",
+        "title": "Planning Commission 111825",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uP_NIcckQWM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uP_NIcckQWM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uP_NIcckQWM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uP_NIcckQWM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uP_NIcckQWM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Town of Haymarket",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Planning Commission 111825",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT43M4S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2025-11-19T00:03:41Z",
+        "actualEndTime": "2025-11-19T00:46:39Z",
+        "scheduledStartTime": "2025-11-19T00:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "GNolNmKDAmEgw0jWPFFMwugEzPU",
+      "id": "UcZVc4KeyPI",
+      "snippet": {
+        "publishedAt": "2025-11-13T11:03:40Z",
+        "channelId": "UCtqtz4Sjo9chgA38RttUbdw",
+        "title": "Town Council Special Meeting 111225",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UcZVc4KeyPI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UcZVc4KeyPI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UcZVc4KeyPI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UcZVc4KeyPI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UcZVc4KeyPI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Town of Haymarket",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Town Council Special Meeting 111225",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "duration": "PT1M25S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "liveStreamingDetails": {
+        "actualStartTime": "2025-11-12T23:01:14Z",
+        "actualEndTime": "2025-11-12T23:02:46Z",
+        "scheduledStartTime": "2025-11-12T23:00:00Z"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 50,
+    "resultsPerPage": 50
+  }
+}
