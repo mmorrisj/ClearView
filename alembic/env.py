@@ -6,6 +6,7 @@ from alembic import context
 from sqlalchemy import engine_from_config, pool
 
 from lt.config import Settings
+from lt.db import models  # noqa: F401  (register tables on Base.metadata)
 from lt.db.base import Base
 
 config = context.config
