@@ -14,6 +14,7 @@ class Settings(BaseSettings):
         "postgresql+psycopg://clearview:clearview@localhost:5432/clearview"
     )
     log_level: Literal["DEBUG", "INFO", "WARNING", "ERROR"] = "INFO"
+    youtube_api_key: SecretStr | None = None
 
 
 @lru_cache

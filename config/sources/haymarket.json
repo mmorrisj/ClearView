@@ -1,0 +1,14 @@
+{
+  "jurisdiction_name": "Town of Haymarket",
+  "state": "VA",
+  "timezone": "America/New_York",
+  "youtube_channel_id": "UCtqtz4Sjo9chgA38RttUbdw",
+  "bodies": [
+    "Town Council",
+    "Planning Commission",
+    "Architectural Review Board",
+    "Board of Zoning Appeals"
+  ],
+  "body_overrides": {},
+  "skip": {}
+}
