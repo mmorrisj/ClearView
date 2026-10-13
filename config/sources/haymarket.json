@@ -1,0 +1,19 @@
+{
+  "jurisdiction_name": "Town of Haymarket",
+  "state": "VA",
+  "timezone": "America/New_York",
+  "youtube_channel_id": "UCtqtz4Sjo9chgA38RttUbdw",
+  "bodies": [
+    "Town Council",
+    "Planning Commission",
+    "Architectural Review Board",
+    "Board of Zoning Appeals"
+  ],
+  "body_overrides": {
+    "ha3Yl263mZA": {
+      "body": "Town Council",
+      "note": "'Regular Meeting/Closed Session 091626' (2026-09-16): confirmed Town Council by mmorrisj, 2026-10-13"
+    }
+  },
+  "skip": {}
+}
