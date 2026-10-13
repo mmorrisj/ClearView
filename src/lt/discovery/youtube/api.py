@@ -83,10 +83,11 @@ class YouTubeClient:
         transport: httpx.BaseTransport | None = None,
         timeout: float = 30.0,
     ) -> None:
-        self._key = api_key
+        # The key goes in a header, never the query string: URLs are written to logs
+        # (httpx logs every request at INFO) and to proxy access logs.
         self._http = httpx.Client(
             base_url=API_BASE,
-            headers={"User-Agent": USER_AGENT},
+            headers={"User-Agent": USER_AGENT, "X-goog-api-key": api_key},
             timeout=timeout,
             transport=transport,
         )
@@ -95,9 +96,9 @@ class YouTubeClient:
         self._http.close()
 
     def _get(self, path: str, **params: str | int) -> dict[str, Any]:
-        response = self._http.get(path, params={**params, "key": self._key})
+        response = self._http.get(path, params=params)
         if response.status_code != httpx.codes.OK:
-            # Report Google's error message only; the request URL would contain the key.
+            # Report only Google's error message, not the raw response.
             try:
                 message = response.json()["error"]["message"]
             except (ValueError, KeyError, TypeError):

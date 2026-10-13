@@ -1,3 +1,4 @@
+import logging
 from datetime import UTC, datetime
 
 import httpx
@@ -65,13 +66,24 @@ def test_get_videos_batches_ids_by_50() -> None:
     assert [len(b) for b in batches] == [50, 50, 20]
 
 
-def test_api_key_is_sent_and_user_agent_identifies_the_bot() -> None:
+def test_api_key_goes_in_a_header_never_the_url() -> None:
+    """URLs end up in logs and proxies; the key must not."""
     requests: list[httpx.Request] = []
 
     _client(requests).uploads_playlist_id(CHANNEL_ID)
 
-    assert requests[0].url.params["key"] == "test-key"
+    assert requests[0].headers["x-goog-api-key"] == "test-key"
+    assert "test-key" not in str(requests[0].url)
     assert "ClearViewBot" in requests[0].headers["user-agent"]
+
+
+def test_key_never_appears_in_logs_at_debug_level(caplog: pytest.LogCaptureFixture) -> None:
+    caplog.set_level(logging.DEBUG)
+
+    list(_client().list_upload_ids(UPLOADS_ID))
+
+    assert caplog.records  # httpx did log the requests...
+    assert "test-key" not in caplog.text  # ...without the key
 
 
 def test_api_errors_raise_without_leaking_the_key() -> None:
