@@ -33,16 +33,16 @@ jobs:
         env:
           POSTGRES_USER: clearview
           POSTGRES_PASSWORD: clearview
-          POSTGRES_DB: clearview
+          POSTGRES_DB: clearview_test
         ports:
           - 5432:5432
         options: >-
-          --health-cmd "pg_isready -U clearview -d clearview"
+          --health-cmd "pg_isready -U clearview -d clearview_test"
           --health-interval 5s
           --health-timeout 5s
           --health-retries 10
     env:
-      DATABASE_URL: postgresql+psycopg://clearview:clearview@localhost:5432/clearview
+      TEST_DATABASE_URL: postgresql+psycopg://clearview:clearview@localhost:5432/clearview_test
     steps:
       - uses: actions/checkout@v4
       - uses: astral-sh/setup-uv@v6
@@ -50,4 +50,6 @@ jobs:
           enable-cache: true
       - run: uv sync --locked
       - run: uv run alembic upgrade head
+        env:
+          DATABASE_URL: ${{ env.TEST_DATABASE_URL }}
       - run: uv run pytest --cov=lt --cov-report=term-missing

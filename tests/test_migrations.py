@@ -12,7 +12,7 @@ def test_baseline_migration_enables_pgvector() -> None:
     command.downgrade(cfg, "base")
     command.upgrade(cfg, "head")
 
-    engine = create_engine(os.environ["DATABASE_URL"])
+    engine = create_engine(os.environ["TEST_DATABASE_URL"])
     with engine.connect() as conn:
         ext = conn.execute(text("SELECT extname FROM pg_extension WHERE extname = 'vector'"))
         assert ext.scalar_one() == "vector"

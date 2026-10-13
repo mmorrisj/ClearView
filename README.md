@@ -39,8 +39,9 @@ Checks (same as CI):
 ```bash
 uv run ruff check . && uv run ruff format --check .
 uv run mypy
-uv run pytest                      # DB tests are skipped unless DATABASE_URL is set
-DATABASE_URL=postgresql+psycopg://clearview:clearview@localhost:5432/clearview uv run pytest
+uv run pytest                      # DB tests are skipped unless TEST_DATABASE_URL is set
+# DB tests reset the schema, so they only ever use the separate clearview_test database:
+TEST_DATABASE_URL=postgresql+psycopg://clearview:clearview@localhost:5432/clearview_test uv run pytest
 ```
 
 ## Layout
